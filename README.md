@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/X-Suco-De-Fruta-X//Movie-Selector/tree/main/movie-selector">
-    <img src="images/calculator.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Movie Selector - ReactJS</h3>
@@ -53,13 +53,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project is a simple calculator project.
+This project is a Movie Search with a Favourite section.
 
 This app is needed for a few points:
 
 <strong>Improves Logic Skills</strong>
 
 <strong>Increases ReactJS Aknowlegdment</strong>
+
+<strong>Local Storage Data Manipulation</strong>
 
  
 This is Just a few points, but the main reason this one was created is because it's a great workout for anyone trying to learn a new framework or library, with concepts of manipulation of data, grid layout, hooks.
@@ -291,13 +293,13 @@ This project was built and posted on youtube by DeivId, Thanks for the free stud
 <br />
 <div align="center">
   <a href="https://github.com/X-Suco-De-Fruta-X/Calculator">
-    <img src="images/calculator.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Calculator - ReactJS</h3>
+  <h3 align="center">Movie Selector - ReactJS</h3>
 
   <p align="center">
-    An awesome <strong>Calculator</strong> created to improve skills on React JS!
+    <strong>Movie Selector</strong> was created to improve skills on React JS!
     <br />
     <br />
     <a href="https://github.com/X-Suco-De-Fruta-X/Calculator">View Demo</a>
