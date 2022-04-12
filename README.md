@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/X-Suco-De-Fruta-X/Calculator">
+  <a href="https://github.com/X-Suco-De-Fruta-X/Movie-Selector">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,7 +20,7 @@
     <strong>Movie Search Engine</strong> an app that you can Filter and Favorite any movie!
     <br />
     <br />
-    <a href="https://github.com/X-Suco-De-Fruta-X/Calculator">View Demo</a>
+    <a href="https://github.com/X-Suco-De-Fruta-X/Movie-Selector">View Demo</a>
     ·
     <a href="https://github.com/X-Suco-De-Fruta-X/Movie-Selector/issues">Report Bug</a>
     
@@ -93,11 +93,11 @@ For you run this project you will need to install it locally using npm.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your_username_/Calculator.git
+   git clone https://github.com/X-Suco-De-Fruta-X/Movie-Selector.git
    ```
 2. Clone the repository
    ```bash
-    cd Calculator
+    cd movie-selector
    ```
 
 3. Install NPM packages
@@ -130,7 +130,7 @@ This project was built and posted on youtube by DeivId, Thanks for the free stud
 [forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/X-Suco-De-Fruta-X/Movie-Selector.svg?style=for-the-badge
 [issues-url]: https://github.com/X-Suco-De-Fruta-X/Movie-Selector/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
