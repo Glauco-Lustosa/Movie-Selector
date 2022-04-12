@@ -59,7 +59,7 @@ What I learn building this app?
 
 <strong>How to filter content</strong>
 
-<strong>Local Stora Data Manipulation</strong>
+<strong>Local Storage Data Manipulation</strong>
 
 <strong>React Hooks</strong>
 
